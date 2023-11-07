@@ -48,4 +48,9 @@ The final relationships that take place within our model involve the Awards enti
 <img width="497" alt="Screenshot 2023-11-06 at 10 41 15 PM" src="https://github.com/aja1232/4610-Project-1/assets/148247965/ecd6ee0b-0b5b-4297-88bf-3310dfefb6b3">
 <img width="491" alt="Screenshot 2023-11-06 at 10 40 43 PM" src="https://github.com/aja1232/4610-Project-1/assets/148247965/5902a2cb-f110-46af-af13-45823fd37fba">
 
+## Queries
+
+<img width="539" alt="Screenshot 2023-11-06 at 10 49 15 PM" src="https://github.com/aja1232/4610-Project-1/assets/148247965/42a09d0e-a47b-468d-b143-13b8ed456a68">
+
+
 
