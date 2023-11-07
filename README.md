@@ -29,3 +29,23 @@ Additionally, each team has different types of financial transactions they’re 
 The Game entity has three other branches coming off of it, connecting to entities representing Statistics, Injuries, and Season. Within each game, there are many different statistics that can be recorded, however, a player can only record one of each type of statistic in a given game, leading to a one to one relationship. The statistics entity also records the type of statistic being logged, the value of the statistic, and which player the statistic correlates too. Similarly, there are many different injuries that can take place within a single game. Unlike statistics, it is possible for a player to have the same injury twice in a given game, leading to another one to many relationship. The Injuries entity records information on what type of injury occurred, to which player, and which game. The final branch that comes out of the game entity is in relation to the season entity. Although a season has many games, each game is identified by a unique number, making it impossible to have a repeating game ID. This means that the relationship between the two entities is one to one. Furthermore, we included information in the Season entity to capture the start and end dates of the given season.
 
 The final relationships that take place within our model involve the Awards entity. The awards entity has a one to many relationship with season, since there are a number of different awards that are given out on any given season. The awards entity contains information on the name of the award, which player won the award, and in which season it was awarded. The other branch that Awards is related to is Player. Since it is impossible for a player to win the same award twice in the same season, a one to one relationship is used.
+
+<img width="808" alt="Screenshot 2023-11-06 at 10 39 04 PM" src="https://github.com/aja1232/4610-Project-1/assets/148247965/422f7a17-93ed-43df-ae1f-45cf6bdf0b36">
+
+## Data Dictionary
+
+<img width="505" alt="Screenshot 2023-11-06 at 10 44 08 PM" src="https://github.com/aja1232/4610-Project-1/assets/148247965/4a91f584-e6d1-4136-b617-9838b99e9174">
+<img width="502" alt="Screenshot 2023-11-06 at 10 43 55 PM" src="https://github.com/aja1232/4610-Project-1/assets/148247965/78ed1195-e5d6-45a8-9b8a-12473652c8aa">
+<img width="500" alt="Screenshot 2023-11-06 at 10 43 41 PM" src="https://github.com/aja1232/4610-Project-1/assets/148247965/e4862ae0-c9fa-4166-8709-8800647b5a58">
+<img width="502" alt="Screenshot 2023-11-06 at 10 43 32 PM" src="https://github.com/aja1232/4610-Project-1/assets/148247965/861a6e04-71c8-4a3e-a7ee-5894e09f8449">
+<img width="511" alt="Screenshot 2023-11-06 at 10 43 18 PM" src="https://github.com/aja1232/4610-Project-1/assets/148247965/2e605cc8-e9df-4010-9eb4-53f507101af0">
+<img width="506" alt="Screenshot 2023-11-06 at 10 42 47 PM" src="https://github.com/aja1232/4610-Project-1/assets/148247965/ec1f3e34-88db-430b-a62d-6ed9b1f6b750">
+<img width="513" alt="Screenshot 2023-11-06 at 10 42 35 PM" src="https://github.com/aja1232/4610-Project-1/assets/148247965/fc1637fe-9c62-4068-9be6-03248eb5122f">
+<img width="502" alt="Screenshot 2023-11-06 at 10 42 15 PM" src="https://github.com/aja1232/4610-Project-1/assets/148247965/acf023b7-d49f-4ee4-8ce2-265ff1a2336e">
+<img width="501" alt="Screenshot 2023-11-06 at 10 41 55 PM" src="https://github.com/aja1232/4610-Project-1/assets/148247965/2112b52f-60ba-45dd-b5bc-14df919fd0d4">
+<img width="506" alt="Screenshot 2023-11-06 at 10 41 45 PM" src="https://github.com/aja1232/4610-Project-1/assets/148247965/1acee50b-414f-4e3d-9b3f-f9d880d2bd3e">
+<img width="496" alt="Screenshot 2023-11-06 at 10 41 31 PM" src="https://github.com/aja1232/4610-Project-1/assets/148247965/46fbc235-0c24-4b02-848f-bdd2d8cf3f58">
+<img width="497" alt="Screenshot 2023-11-06 at 10 41 15 PM" src="https://github.com/aja1232/4610-Project-1/assets/148247965/ecd6ee0b-0b5b-4297-88bf-3310dfefb6b3">
+<img width="491" alt="Screenshot 2023-11-06 at 10 40 43 PM" src="https://github.com/aja1232/4610-Project-1/assets/148247965/5902a2cb-f110-46af-af13-45823fd37fba">
+
+
