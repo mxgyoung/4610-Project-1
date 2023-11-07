@@ -14,7 +14,7 @@
 1. Jake Bogartz [@jab92323](https://github.com/jab92323)
 2. Aiden Abramowitz [@aja1232](https://github.com/aja1232)
 3. Max Young [@mxgyoung](https://github.com/mxgyoung)
-4. Kiefer Sturisky [@ksturisky](https://github.com/@ksturisky)
+4. Kiefer Sturisky [@ksturisky](https://github.com/ksturisky)
 ## Problem Description
 
 The given problem is to create a database for an owner of a football team that models the entities and relationships that exist. We decided to improve the model by portraying the entities and relationships of an entire football league. The central entity of the model is Team, which represents each of the competing teams in our league. The team entity is then related to the players on the roster, the staff that works for them, the fans that cheer for them, their financial situation, and the results of each game they play in. Furthermore, we are looking to expand on the game entity by connecting it to entities that record player statistics within a game, injuries that occur, and the amount of games within a given season. Finally, we are including an awards entity to capture the best players from a given season. Our goal is to accurately model the relationships between these entities, insert sample data into each entity, and execute functioning queries in order to provide us with valuable information about our created football league.
