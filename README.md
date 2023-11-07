@@ -11,10 +11,10 @@
 CRN Group 1
 ## Team Members
 
-1. Jake Bogartz [@jab9823] (https://github.com/jab92323)
-2. Aiden Abramowitz [@aja1232] (https://github.com/@aja1232)
-3. Max Young [@mxgyoung] (https://github.com/@mxgyoung)
-4. Kiefer Sturisky [@ksturisky] (https://github.com/@ksturisky)
+1. Jake Bogartz [@jab92323](https://github.com/jab92323)
+2. Aiden Abramowitz [@aja1232](https://github.com/@aja1232)
+3. Max Young [@mxgyoung](https://github.com/@mxgyoung)
+4. Kiefer Sturisky [@ksturisky](https://github.com/@ksturisky)
 ## Problem Description
 
 The given problem is to create a database for an owner of a football team that models the entities and relationships that exist. We decided to improve the model by portraying the entities and relationships of an entire football league. The central entity of the model is Team, which represents each of the competing teams in our league. The team entity is then related to the players on the roster, the staff that works for them, the fans that cheer for them, their  
