@@ -8,7 +8,7 @@
 
 ## Team Name
 
-CRN Group 1
+15058, 15061 Group 1
 ## Team Members
 
 1. Jake Bogartz [@jab92323](https://github.com/jab92323)
