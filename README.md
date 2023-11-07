@@ -12,7 +12,7 @@ CRN Group 1
 ## Team Members
 
 1. Jake Bogartz [@jab9823] (https://github.com/jab92323)
-2. Aiden Abramawitz [@aja1232] (https://github.com/@aja1232)
+2. Aiden Abramowitz [@aja1232] (https://github.com/@aja1232)
 3. Max Young [@mxgyoung] (https://github.com/@mxgyoung)
 4. Kiefer Sturisky [@ksturisky] (https://github.com/@ksturisky)
 ## Problem Description
